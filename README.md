@@ -9,3 +9,5 @@ Using machine learning to predict securities fraud
   * https://www.kaggle.com/camnugent/sandp500
 * Securities fraud class action data: stanford.securities.edu
   * http://www.kaikaichen.com/?p=1032
+* S&P500 companies with sector column
+  * https://datahub.io/core/s-and-p-500-companies#resource-constituents
